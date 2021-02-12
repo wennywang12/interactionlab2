@@ -2,6 +2,7 @@ body{
     background-color: #c6dce1;
 }
 
+
 a:link, a:visited {
     background-color: #cd99a5;
     color: white;
@@ -11,14 +12,10 @@ a:link, a:visited {
     display: inline-block;
   }
   
-  a:hover, a:active {
+a:hover, a:active {
     background-color: #d77586;
   }
 
-.class{
-    width: 100vh;
-    height: 100vh;
-}
 
 #dot1{
     position: relative;
